@@ -1,0 +1,2 @@
+Plik test1.java
+ABC - problem z klasa
